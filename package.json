@@ -1,0 +1,12 @@
+{
+  "name": "rsschool-crud-api",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeddikus97/rsschool-crud-api"
+  },
+  "author": "Zeddikus97"
+}
