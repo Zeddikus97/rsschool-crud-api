@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "esModuleInterop": true,
+        "removeComments": true,
+        "outDir": "js",
+        "sourceMap": true,
+        "outFile": "./build/index.js"
+    }
+}
